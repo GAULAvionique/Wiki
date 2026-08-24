@@ -1,0 +1,18 @@
+- leçons apprises
+- documentation SRAD
+- ancienne documentation
+- guide de fuséologie
+	- lexique
+	- anatomie d'une fusée
+- gestion de projet :
+	- Onglet par projet
+	- CONOPS
+	- requirements
+- onglet idées pour années prochaines
+	- GSE industrielle
+	- gestion antennes
+	- remplacement RFD
+	- batteries accessibles et meilleure gestion
+	- chargeur batteries
+	- fusée de test
+	- borniers sur bulkhead

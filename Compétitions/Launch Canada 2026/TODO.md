@@ -1,0 +1,5 @@
+- recap de tout
+- données + plot
+- documentation + rapports
+- leçons ici aussi?
+- 
