@@ -1,3 +1,4 @@
+![[FW_GPS.png]]
 # Description
 Traqueur GPS le plus répandu. Fait partie de la famille Featherweight et partage l'application Bluetooth. Se configure avec un cellulaire par Bluetooth, et lorsqu'on s'éloigne hors de portée, communique par Lora 915 MHz avec une ground station  (qui communique par bluetooth avec le cellulaire). La ground station est donc essentiellement un relais pour l'application BT.
 Le nombre de scrubs qui ont été causés par cette abomination est franchement insultant. L'ironie de la chose c'est que c'est aussi le standard de la communauté, donc assez difficile de s'en départir. En effet, dans un monde où il n'existe aucun traqueur GPS pour fusées amateur fiables, on doit se contenter du moins pire: le Featherweight GPS tracker.
@@ -30,3 +31,4 @@ Problèmes courants :
 
 # Mode emploi
 # Liens
+- [Page FW GPS tracker](https://www.featherweightaltimeters.com/original-gps-tracker.html)

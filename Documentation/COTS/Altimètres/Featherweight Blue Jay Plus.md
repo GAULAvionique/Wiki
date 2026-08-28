@@ -1,3 +1,4 @@
+![[blue_jay_plus.png]]
 # Description
 Altimètre bas de gamme de la famille Featherweight. Conçu pour le double déploiement. La version "plus" permet de configurer la charge "main" pour permettre une programmation costum (comme blue raven). Cet altimètre a par exemple été utilisé dans le Booster d'Alterra à l'IREC 2025 pour déployer le main à l'apogée (permis à l'époque), ainsi que la charge de séparation à la montée.
 # Specs
@@ -18,3 +19,4 @@ De plus, comme les Raven, les Blue Jay sont frustrants à utiliser avec l'applic
 - Seulement 2 channels (ne permet pas double déploiement plus charge)
 # Mode emploi
 # Liens
+- [page Blue Jay](https://www.featherweightaltimeters.com/blue-jay-altimeter.html)

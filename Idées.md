@@ -11,7 +11,9 @@
 - onglet idées pour années prochaines
 	- GSE industrielle
 	- gestion antennes
+	- simulation antennes
 	- remplacement RFD
+	- Astérix?
 	- batteries accessibles et meilleure gestion
 	- chargeur batteries
 	- fusée de test

@@ -1,0 +1,4 @@
+- Antenne du FW GPS
+- Caméras overheat
+- Circuit caméra sur le reste
+- Switch des caméras sur le reste

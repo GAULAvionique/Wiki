@@ -1,3 +1,4 @@
+![[RRC3.png]]
 # Description
 Altimètre barométrique de base semblable au Stratologger. En plus d'avoir deux pyros main et apogée comme le Stratologger, il a une 3e sortie configurable. Il peut donc servir aux vols avancés (staging, payload déployable, etc). 
 # Specs

@@ -1,3 +1,4 @@
+![[Blue_raven.png]]
 # Description
 Altimètre haut de gamme avec données barométriques, et d'IMU. Il se programme et s'arme par Bluetooth et fait partie de l'écosystème Featherweight. Ses quatres canaux de pyro sont programmables (la programmation costum est très flexible et avancée). Cet altimètre est idéal pour les vols avancés (staging, vols exo-atmosphériques, payload déployable, etc) tout en étant (relativement) abordable.
 # Specs
@@ -28,4 +29,4 @@ Les produits Featherweight sont particulièrement frustrants à utiliser. L'appl
 - Fragile
 # Mode emploi
 # Liens
-- [Main Blue Raven page](https://www.featherweightaltimeters.com/blue-raven-altimeter.html)
+- [Page Blue Raven](https://www.featherweightaltimeters.com/blue-raven-altimeter.html)

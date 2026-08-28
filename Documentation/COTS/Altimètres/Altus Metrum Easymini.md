@@ -1,3 +1,4 @@
+![[easymini.png]]
 # Description
 
 # Specs
