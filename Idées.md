@@ -10,10 +10,13 @@
 	- requirements
 - onglet idées pour années prochaines
 	- GSE industrielle
+	- redistribuer divisions
 	- gestion antennes
 	- simulation antennes
 	- remplacement RFD
 	- Astérix?
+	- Radio UART LORA
+	- Idéfix v2 avec GPS
 	- batteries accessibles et meilleure gestion
 	- chargeur batteries
 	- fusée de test

@@ -8,3 +8,7 @@ Toutes les données sont sur Teams, dans le canal avionique -> Partagé -> Donn�
 | ODBlix       | 33 310      | 2234\*         | 1.98\*         |
 | Stratologger | 33 023      | -              | -              |
 \* Vitesse extraite du filtre Kalman, erronée for sure, on ne sait pas exactement pourquoi
+
+# Analyse
+![[LC_sport.png]]
+![[LC_sport_zoom.png]]![[comparatif_vol_dashboard.png]]
