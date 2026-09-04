@@ -35,7 +35,7 @@ Avant le vol, le filtre accumule 50 échantillons (définis par `KALMAN_NAV_SAMP
 
 ## 3. Étape 2 : Prédiction (`KalmanNav_Predict`)
 
-Cette étape utilise les données de l'accéléromètre (High-G ou IMU standard selon l'intensité de la vitesse) pour estimer le nouvel état **avant** d'avoir une nouvelle lecture du baromètre. Elle s'exécute à haute fréquence (> 200 Hz).
+Cette étape utilise les données de l'accéléromètre (High-G ou IMU standard selon l'intensité de la vitesse) pour estimer le nouvel état **avant** d'avoir une nouvelle lecture du baromètre. Elle s'exécute à haute fréquence (> 200 Hz) et utilise le module DWT matériel du STM32 pour permettre une base de temps système (SysTick) en microseconde.
 
 Soit $\Delta t$ le temps écoulé depuis la dernière prédiction.
 
