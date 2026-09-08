@@ -8,16 +8,35 @@
 	- Onglet par projet
 	- CONOPS
 	- requirements
-- onglet idées pour années prochaines
-	- GSE industrielle
-	- redistribuer divisions
-	- gestion antennes
-	- simulation antennes
-	- remplacement RFD
-	- Astérix?
-	- Radio UART LORA
-	- Idéfix v2 avec GPS
-	- batteries accessibles et meilleure gestion
-	- chargeur batteries
-	- fusée de test
-	- borniers sur bulkhead
+- projets :
+	- GSE + moteur
+		- System design
+		- GSE par Chriz
+		- Moteur géré par nous
+		- Acheter 2e COTS plus avancé
+		- Communication et station de base
+	- Idéfix v2
+		- Tout hardware
+		- Tout software
+	- baie avionique
+		- System design
+		- simulation et caract. antennes
+		- 2 pcb armement
+		- meilleure gestion batteries: BMS, charge facile
+		- Baie plus pratique
+		- Switching caméra et batterie cam séparée
+		- ombilical pour power et caméra
+	- SAS
+		- Python pas cancer à debug
+		- Possiblement laptop seulement ou rework complet
+	- Terminer ODBlix
+		- Software et tests
+		- Pneumatix
+		- Surmoulage
+		- Fusée de tests
+- formations :
+	- formation introduction
+	- HAM radio
+	- liste vidéo à écouter
+	- vidéos ASC
+	- Finir Doc

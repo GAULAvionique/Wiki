@@ -12,4 +12,6 @@ git commit -m "message de commit expliquant les modifications"
 git switch -c nouvelle_branche
 git push -u origin nouvelle_branche
 ```
+# Collaboration
+Ce Wiki se veut collaboratif. Tous les membres du GAUL sont encouragés à y participer, à y ajouter leurs connaissances et à y documenter leurs projets. On prends ici la même approche que pour le développement logiciel: soit travaillez sur une nouvelle branche, et demander une pull request quand vous êtes prêt à ajouter vos modifications à la branche principale.
 # Organisation
