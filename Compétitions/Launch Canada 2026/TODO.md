@@ -1,7 +1,0 @@
-- Graphiques du vol comp
-- Recap vol sport
-- graphiques vol sport avec ODB
-- Indiquer où sont les données
-- Mettre doc: 
-	- Rapport technique
-- Détailler leçons

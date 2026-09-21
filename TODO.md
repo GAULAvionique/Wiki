@@ -1,5 +1,4 @@
 - Ajouter sources Kalman
-
 - Formations :
 	- Guide fuséeologie
 	- Guide pour les nouveaux (quoi installer, où aller chercher info)
